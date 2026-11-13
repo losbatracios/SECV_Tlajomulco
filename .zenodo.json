@@ -1,0 +1,28 @@
+{
+  "title": "SECV_Tlajomulco: code and derived data for \"Los límites de la mirada. Archivo fotogramétrico y transformación socioambiental\"",
+  "description": "Code and derived data for the book chapter \"Los límites de la mirada\" (Montes Ruiz and Bermeo Donoso), Seminario Permanente de Estudios de Cultura Visual, CEIICH-UNAM. Coverage analysis of INEGI aerial survey metadata (SIIV) and cartographic regression of 1971 and 1993 aerial photographs of Tlajomulco de Zúñiga, Jalisco, Mexico. INEGI images are not included.",
+  "upload_type": "software",
+  "creators": [
+    {
+      "name": "Bermeo Donoso, Emilio José",
+      "affiliation": "Universidad Iberoamericana",
+      "orcid": "0000-0002-1296-6713"
+    },
+    {
+      "name": "Montes Ruiz, Ana Paula",
+      "affiliation": "Instituto de Geografía, UNAM",
+      "orcid": "0000-0001-6557-7765"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "aerial photography",
+    "INEGI",
+    "cartographic regression",
+    "georeferencing",
+    "visual culture",
+    "extractivism",
+    "Tlajomulco de Zúñiga",
+    "counter-archive"
+  ]
+}
