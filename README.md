@@ -1,5 +1,7 @@
 # SECV_Tlajomulco
 
+   [![DOI](https://zenodo.org/badge/1457111180.svg)](https://doi.org/10.5281/zenodo.24208442)
+
 Code and derived data for the book chapter **"Los límites de la mirada. Archivo fotogramétrico y transformación socioambiental"** (Ana Paula Montes Ruiz and Emilio José Bermeo Donoso), forthcoming in *El punto ciego*, Seminario Permanente de Estudios de Cultura Visual, CEIICH-UNAM.
 
 The chapter reads INEGI's aerial photography archive of Tlajomulco de Zúñiga (Jalisco, Mexico) through two operations:
@@ -30,4 +32,4 @@ Version 0.1 reserves the DOI. The full contents (scripts, derived tables, ground
 
 ## How to cite
 
-Please cite the Zenodo record (DOI on the repository page) and the chapter.
+   Please cite the Zenodo record, DOI [10.5281/zenodo.24208442](https://doi.org/10.5281/zenodo.24208442), and the chapter.
