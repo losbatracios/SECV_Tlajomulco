@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Laboratorios PISA",
+        "id_denue": 6336993,
+        "actividad": "Fabricaci\u00f3n de preparaciones farmac\u00e9uticas",
+        "vialidad": "Carretera Libre a San Isidro Mazatepec km 7000",
+        "utm_x": 650348.0,
+        "utm_y": 2266122.4,
+        "dist_vaso_m": 3536.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.55833333,
+          20.48777778
+        ]
+      }
+    }
+  ]
+}

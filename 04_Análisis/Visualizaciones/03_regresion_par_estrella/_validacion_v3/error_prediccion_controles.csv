@@ -1,0 +1,64 @@
+fecha,escenario,controles,control,modelo,error_prediccion_m
+1971,pe1_i,"con B,E,F",B,similitud (Helmert),11.5541
+1971,pe1_i,"con B,E,F",B,afín,11.5749
+1971,pe1_i,"con B,E,F",B,proyectiva,24.6197
+1971,pe1_i,"con B,E,F",E,similitud (Helmert),26.3187
+1971,pe1_i,"con B,E,F",E,afín,27.9447
+1971,pe1_i,"con B,E,F",E,proyectiva,46.8448
+1971,pe1_i,"con B,E,F",F,similitud (Helmert),6.8407
+1971,pe1_i,"con B,E,F",F,afín,10.7033
+1971,pe1_i,"con B,E,F",F,proyectiva,53.1638
+1971,pe1_i,"con B,E,F",RMS,similitud (Helmert),17.0584
+1971,pe1_i,"con B,E,F",RMS,afín,18.5243
+1971,pe1_i,"con B,E,F",RMS,proyectiva,43.3088
+1971,pe1_i,"sin F (B,E)",B,similitud (Helmert),11.5541
+1971,pe1_i,"sin F (B,E)",B,afín,11.5749
+1971,pe1_i,"sin F (B,E)",B,proyectiva,24.6197
+1971,pe1_i,"sin F (B,E)",E,similitud (Helmert),26.3187
+1971,pe1_i,"sin F (B,E)",E,afín,27.9447
+1971,pe1_i,"sin F (B,E)",E,proyectiva,46.8448
+1971,pe1_i,"sin F (B,E)",RMS,similitud (Helmert),20.3245
+1971,pe1_i,"sin F (B,E)",RMS,afín,21.3879
+1971,pe1_i,"sin F (B,E)",RMS,proyectiva,37.4204
+1971,pe1_ii,"con B,E,F",B,similitud (Helmert),10.529
+1971,pe1_ii,"con B,E,F",B,afín,11.0408
+1971,pe1_ii,"con B,E,F",B,proyectiva,17.2851
+1971,pe1_ii,"con B,E,F",E,similitud (Helmert),28.5203
+1971,pe1_ii,"con B,E,F",E,afín,29.2859
+1971,pe1_ii,"con B,E,F",E,proyectiva,32.0408
+1971,pe1_ii,"con B,E,F",F,similitud (Helmert),6.7874
+1971,pe1_ii,"con B,E,F",F,afín,8.8918
+1971,pe1_ii,"con B,E,F",F,proyectiva,28.1402
+1971,pe1_ii,"con B,E,F",RMS,similitud (Helmert),17.9846
+1971,pe1_ii,"con B,E,F",RMS,afín,18.785
+1971,pe1_ii,"con B,E,F",RMS,proyectiva,26.566
+1971,pe1_ii,"sin F (B,E)",B,similitud (Helmert),10.529
+1971,pe1_ii,"sin F (B,E)",B,afín,11.0408
+1971,pe1_ii,"sin F (B,E)",B,proyectiva,17.2851
+1971,pe1_ii,"sin F (B,E)",E,similitud (Helmert),28.5203
+1971,pe1_ii,"sin F (B,E)",E,afín,29.2859
+1971,pe1_ii,"sin F (B,E)",E,proyectiva,32.0408
+1971,pe1_ii,"sin F (B,E)",RMS,similitud (Helmert),21.4973
+1971,pe1_ii,"sin F (B,E)",RMS,afín,22.131
+1971,pe1_ii,"sin F (B,E)",RMS,proyectiva,25.7429
+1993,pe2,con 3 controles,P2C0 (techo),similitud (Helmert),5.1027
+1993,pe2,con 3 controles,P2C0 (techo),afín,4.0435
+1993,pe2,con 3 controles,P2C0 (techo),proyectiva,14.6358
+1993,pe2,con 3 controles,P2C1 (circular),similitud (Helmert),3.7213
+1993,pe2,con 3 controles,P2C1 (circular),afín,2.2667
+1993,pe2,con 3 controles,P2C1 (circular),proyectiva,14.7228
+1993,pe2,con 3 controles,P2C2 (cruce N3),similitud (Helmert),3.7957
+1993,pe2,con 3 controles,P2C2 (cruce N3),afín,3.9631
+1993,pe2,con 3 controles,P2C2 (cruce N3),proyectiva,4.0736
+1993,pe2,con 3 controles,RMS,similitud (Helmert),4.2541
+1993,pe2,con 3 controles,RMS,afín,3.5211
+1993,pe2,con 3 controles,RMS,proyectiva,12.2142
+1993,pe2,"sin P2C0 (P2C1,P2C2)",P2C1 (circular),similitud (Helmert),3.7213
+1993,pe2,"sin P2C0 (P2C1,P2C2)",P2C1 (circular),afín,2.2667
+1993,pe2,"sin P2C0 (P2C1,P2C2)",P2C1 (circular),proyectiva,14.7228
+1993,pe2,"sin P2C0 (P2C1,P2C2)",P2C2 (cruce N3),similitud (Helmert),3.7957
+1993,pe2,"sin P2C0 (P2C1,P2C2)",P2C2 (cruce N3),afín,3.9631
+1993,pe2,"sin P2C0 (P2C1,P2C2)",P2C2 (cruce N3),proyectiva,4.0736
+1993,pe2,"sin P2C0 (P2C1,P2C2)",RMS,similitud (Helmert),3.7587
+1993,pe2,"sin P2C0 (P2C1,P2C2)",RMS,afín,3.2283
+1993,pe2,"sin P2C0 (P2C1,P2C2)",RMS,proyectiva,10.8018

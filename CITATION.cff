@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below, together with the chapter."
+title: "SECV_Tlajomulco: code and derived data for \"Los límites de la mirada. Archivo fotogramétrico y transformación socioambiental\""
+type: software
+authors:
+  - family-names: "Bermeo Donoso"
+    given-names: "Emilio José"
+    affiliation: "Universidad Iberoamericana"
+    orcid: "https://orcid.org/0000-0002-1296-6713"
+  - family-names: "Montes Ruiz"
+    given-names: "Ana Paula"
+    affiliation: "Instituto de Geografía, UNAM"
+    orcid: "https://orcid.org/0000-0001-6557-7765"
+doi: "10.5281/zenodo.24208442"
+version: "v1.0"
+date-released: "2026-11-20"
+license: MIT
+repository-code: "https://github.com/losbatracios/SECV_Tlajomulco"

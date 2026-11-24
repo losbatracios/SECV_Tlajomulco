@@ -1,0 +1,168 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cuadro foto 249BZ/37/5 (orientaci\u00f3n del archivo original)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -103.50697163911124,
+              20.420851879838295
+            ],
+            [
+              -103.50295016860112,
+              20.493554918513464
+            ],
+            [
+              -103.58002836088875,
+              20.497348120161703
+            ],
+            [
+              -103.58404983139887,
+              20.424645081486535
+            ],
+            [
+              -103.50697163911124,
+              20.420851879838295
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro SINFA (37_5)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5435,
+          20.4591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vaso de La Playa (centro aprox)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.52830309306596,
+          20.47230382730117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Capilla Santa Cruz (~1600)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.50896419004644,
+          20.48107623311086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TL (archivo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.50697163911124,
+          20.420851879838295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "TR (archivo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.50295016860112,
+          20.493554918513464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BL (archivo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.58404983139887,
+          20.424645081486535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BR (archivo)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.58002836088875,
+          20.497348120161703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro 37_3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4947,
+          20.4546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro 37_4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5181,
+          20.4579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro 37_6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5689,
+          20.4604
+        ]
+      }
+    }
+  ]
+}

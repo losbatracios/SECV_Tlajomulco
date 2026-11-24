@@ -1,0 +1,3 @@
+modelo,n_gcp,ubicaciones_independientes,p,redundancia,rms_residuos_m,error_estandar_corregido_m,loo_rms_m,ctrl_C1_m,ctrl_C2_m,ctrl_rms_m,resolucion_m_px,anisotropia_pct,area_ha,perimetro_m,pisa_borde_m,pisa_centroide_m,pisa_dentro
+similitud (Helmert),5,3,4,6,48.235,62.272,111.523,23.259,95.799,69.708,0.56544,nan,419.23,11315.5,1184.9,3536.1,False
+afín,5,3,6,4,4.588,7.254,254.517,36.245,17.489,28.457,0.55188,4.35,416.26,11353.3,1181.8,3535.6,False

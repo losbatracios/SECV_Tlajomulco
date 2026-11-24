@@ -1,0 +1,10 @@
+escenario,modelo,n_gcp,p,redundancia,rms_residuos_m,error_estandar_corregido_m,loo_rms_m,loo_redundancia,loo_evaluable
+pe1_i,similitud (Helmert),5,4,6,9.3512,12.0724,15.0585,4,sí
+pe1_i,afín,5,6,4,8.7614,13.853,27.1405,2,sí
+pe1_i,proyectiva,5,8,2,3.705,8.2847,40.7623,0,no
+pe1_ii,similitud (Helmert),7,4,10,8.2109,9.7152,11.4767,8,sí
+pe1_ii,afín,7,6,8,7.9845,10.5626,15.1002,6,sí
+pe1_ii,proyectiva,7,8,6,6.0662,9.2663,17.924,4,sí
+pe2,similitud (Helmert),7,4,10,2.3837,2.8204,3.7599,8,sí
+pe2,afín,7,6,8,2.0476,2.7087,3.8728,6,sí
+pe2,proyectiva,7,8,6,0.8602,1.314,1.8027,4,sí
